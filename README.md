@@ -1,5 +1,6 @@
 # Titanic-survival
 **Aim** : This project aims to build a predictive model to determine the likelihood of a passenger surviving the Titanic disaster based on the provided features.
+
 **Summary** : 
 1. Data loading: Dataset downloaded from kaggle.
 2. Exploratory data analysis (EDA): Visualized the distributions and explored the relationship between "Pclass" and "Fare".
@@ -20,7 +21,8 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-0.11.2-blue.svg)
 
 **Machine Learning & Modeling**
-[Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.1-blue.svg)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.1-blue.svg)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-5882FA.svg?style=flat&logo=random-forest&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/xgboost-1.5.0-blue.svg)
 ![LightGBM](https://img.shields.io/badge/lightgbm-3.3.1-blue.svg)
 ![CatBoost](https://img.shields.io/badge/catboost-1.0.1-blue.svg)
